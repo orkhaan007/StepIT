@@ -1,0 +1,14 @@
+C:\Users\orkha_wpyrape\source\repos\Practics2\PracticsDomainLayer\bin\Debug\net6.0\PracticsDomainLayer.deps.json
+C:\Users\orkha_wpyrape\source\repos\Practics2\PracticsDomainLayer\bin\Debug\net6.0\PracticsDomainLayer.runtimeconfig.json
+C:\Users\orkha_wpyrape\source\repos\Practics2\PracticsDomainLayer\bin\Debug\net6.0\PracticsDomainLayer.dll
+C:\Users\orkha_wpyrape\source\repos\Practics2\PracticsDomainLayer\bin\Debug\net6.0\PracticsDomainLayer.pdb
+C:\Users\orkha_wpyrape\source\repos\Practics2\PracticsDomainLayer\obj\Debug\net6.0\PracticsDomainLayer.csproj.AssemblyReference.cache
+C:\Users\orkha_wpyrape\source\repos\Practics2\PracticsDomainLayer\obj\Debug\net6.0\PracticsDomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkha_wpyrape\source\repos\Practics2\PracticsDomainLayer\obj\Debug\net6.0\PracticsDomainLayer.AssemblyInfoInputs.cache
+C:\Users\orkha_wpyrape\source\repos\Practics2\PracticsDomainLayer\obj\Debug\net6.0\PracticsDomainLayer.AssemblyInfo.cs
+C:\Users\orkha_wpyrape\source\repos\Practics2\PracticsDomainLayer\obj\Debug\net6.0\PracticsDomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\orkha_wpyrape\source\repos\Practics2\PracticsDomainLayer\obj\Debug\net6.0\PracticsDomainLayer.dll
+C:\Users\orkha_wpyrape\source\repos\Practics2\PracticsDomainLayer\obj\Debug\net6.0\refint\PracticsDomainLayer.dll
+C:\Users\orkha_wpyrape\source\repos\Practics2\PracticsDomainLayer\obj\Debug\net6.0\PracticsDomainLayer.pdb
+C:\Users\orkha_wpyrape\source\repos\Practics2\PracticsDomainLayer\obj\Debug\net6.0\PracticsDomainLayer.genruntimeconfig.cache
+C:\Users\orkha_wpyrape\source\repos\Practics2\PracticsDomainLayer\obj\Debug\net6.0\ref\PracticsDomainLayer.dll

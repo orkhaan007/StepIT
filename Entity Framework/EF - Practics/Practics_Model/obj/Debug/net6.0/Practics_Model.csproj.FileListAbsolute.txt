@@ -1,0 +1,14 @@
+C:\Users\orkha_wpyrape\source\repos\Practics\Practics_Model\bin\Debug\net6.0\Practics_Model.deps.json
+C:\Users\orkha_wpyrape\source\repos\Practics\Practics_Model\bin\Debug\net6.0\Practics_Model.runtimeconfig.json
+C:\Users\orkha_wpyrape\source\repos\Practics\Practics_Model\bin\Debug\net6.0\Practics_Model.dll
+C:\Users\orkha_wpyrape\source\repos\Practics\Practics_Model\bin\Debug\net6.0\Practics_Model.pdb
+C:\Users\orkha_wpyrape\source\repos\Practics\Practics_Model\obj\Debug\net6.0\Practics_Model.csproj.AssemblyReference.cache
+C:\Users\orkha_wpyrape\source\repos\Practics\Practics_Model\obj\Debug\net6.0\Practics_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkha_wpyrape\source\repos\Practics\Practics_Model\obj\Debug\net6.0\Practics_Model.AssemblyInfoInputs.cache
+C:\Users\orkha_wpyrape\source\repos\Practics\Practics_Model\obj\Debug\net6.0\Practics_Model.AssemblyInfo.cs
+C:\Users\orkha_wpyrape\source\repos\Practics\Practics_Model\obj\Debug\net6.0\Practics_Model.csproj.CoreCompileInputs.cache
+C:\Users\orkha_wpyrape\source\repos\Practics\Practics_Model\obj\Debug\net6.0\Practics_Model.dll
+C:\Users\orkha_wpyrape\source\repos\Practics\Practics_Model\obj\Debug\net6.0\refint\Practics_Model.dll
+C:\Users\orkha_wpyrape\source\repos\Practics\Practics_Model\obj\Debug\net6.0\Practics_Model.pdb
+C:\Users\orkha_wpyrape\source\repos\Practics\Practics_Model\obj\Debug\net6.0\Practics_Model.genruntimeconfig.cache
+C:\Users\orkha_wpyrape\source\repos\Practics\Practics_Model\obj\Debug\net6.0\ref\Practics_Model.dll
