@@ -1,0 +1,10 @@
+C:\Users\orkha\source\repos\FileCopier\FileCopier\bin\Debug\FileCopier.exe.config
+C:\Users\orkha\source\repos\FileCopier\FileCopier\bin\Debug\FileCopier.exe
+C:\Users\orkha\source\repos\FileCopier\FileCopier\bin\Debug\FileCopier.pdb
+C:\Users\orkha\source\repos\FileCopier\FileCopier\obj\Debug\FileCopier.csproj.AssemblyReference.cache
+C:\Users\orkha\source\repos\FileCopier\FileCopier\obj\Debug\FileCopier.Form1.resources
+C:\Users\orkha\source\repos\FileCopier\FileCopier\obj\Debug\FileCopier.Properties.Resources.resources
+C:\Users\orkha\source\repos\FileCopier\FileCopier\obj\Debug\FileCopier.csproj.GenerateResource.cache
+C:\Users\orkha\source\repos\FileCopier\FileCopier\obj\Debug\FileCopier.csproj.CoreCompileInputs.cache
+C:\Users\orkha\source\repos\FileCopier\FileCopier\obj\Debug\FileCopier.exe
+C:\Users\orkha\source\repos\FileCopier\FileCopier\obj\Debug\FileCopier.pdb

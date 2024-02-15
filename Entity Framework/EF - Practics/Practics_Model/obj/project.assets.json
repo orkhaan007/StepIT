@@ -7448,19 +7448,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\orkha_wpyrape\\.nuget\\packages\\": {}
+    "C:\\Users\\orkha\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\orkha_wpyrape\\source\\repos\\Practics\\Practics_Model\\Practics_Model.csproj",
+      "projectUniqueName": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT-master\\Entity Framework\\EF - Practics\\Practics_Model\\Practics_Model.csproj",
       "projectName": "Practics_Model",
-      "projectPath": "C:\\Users\\orkha_wpyrape\\source\\repos\\Practics\\Practics_Model\\Practics_Model.csproj",
-      "packagesPath": "C:\\Users\\orkha_wpyrape\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\orkha_wpyrape\\source\\repos\\Practics\\Practics_Model\\obj\\",
+      "projectPath": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT-master\\Entity Framework\\EF - Practics\\Practics_Model\\Practics_Model.csproj",
+      "packagesPath": "C:\\Users\\orkha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT-master\\Entity Framework\\EF - Practics\\Practics_Model\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\orkha_wpyrape\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\orkha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7525,7 +7530,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

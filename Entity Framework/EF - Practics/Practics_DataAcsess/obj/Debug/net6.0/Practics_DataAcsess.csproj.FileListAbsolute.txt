@@ -16,3 +16,22 @@ C:\Users\orkha_wpyrape\source\repos\Practics\Practics_DataAcsess\obj\Debug\net6.
 C:\Users\orkha_wpyrape\source\repos\Practics\Practics_DataAcsess\obj\Debug\net6.0\Practics_DataAcsess.pdb
 C:\Users\orkha_wpyrape\source\repos\Practics\Practics_DataAcsess\obj\Debug\net6.0\Practics_DataAcsess.genruntimeconfig.cache
 C:\Users\orkha_wpyrape\source\repos\Practics\Practics_DataAcsess\obj\Debug\net6.0\ref\Practics_DataAcsess.dll
+C:\Users\orkha\OneDrive\Desktop\StepIT-master\Entity Framework\EF - Practics\Practics_DataAcsess\bin\Debug\net6.0\appsettings.json
+C:\Users\orkha\OneDrive\Desktop\StepIT-master\Entity Framework\EF - Practics\Practics_DataAcsess\bin\Debug\net6.0\Practics_DataAcsess.deps.json
+C:\Users\orkha\OneDrive\Desktop\StepIT-master\Entity Framework\EF - Practics\Practics_DataAcsess\bin\Debug\net6.0\Practics_DataAcsess.runtimeconfig.json
+C:\Users\orkha\OneDrive\Desktop\StepIT-master\Entity Framework\EF - Practics\Practics_DataAcsess\bin\Debug\net6.0\Practics_DataAcsess.dll
+C:\Users\orkha\OneDrive\Desktop\StepIT-master\Entity Framework\EF - Practics\Practics_DataAcsess\bin\Debug\net6.0\Practics_DataAcsess.pdb
+C:\Users\orkha\OneDrive\Desktop\StepIT-master\Entity Framework\EF - Practics\Practics_DataAcsess\bin\Debug\net6.0\Practics_Model.dll
+C:\Users\orkha\OneDrive\Desktop\StepIT-master\Entity Framework\EF - Practics\Practics_DataAcsess\bin\Debug\net6.0\Practics_Model.pdb
+C:\Users\orkha\OneDrive\Desktop\StepIT-master\Entity Framework\EF - Practics\Practics_DataAcsess\obj\Debug\net6.0\Practics_DataAcsess.csproj.AssemblyReference.cache
+C:\Users\orkha\OneDrive\Desktop\StepIT-master\Entity Framework\EF - Practics\Practics_DataAcsess\obj\Debug\net6.0\Practics_DataAcsess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkha\OneDrive\Desktop\StepIT-master\Entity Framework\EF - Practics\Practics_DataAcsess\obj\Debug\net6.0\Practics_DataAcsess.AssemblyInfoInputs.cache
+C:\Users\orkha\OneDrive\Desktop\StepIT-master\Entity Framework\EF - Practics\Practics_DataAcsess\obj\Debug\net6.0\Practics_DataAcsess.AssemblyInfo.cs
+C:\Users\orkha\OneDrive\Desktop\StepIT-master\Entity Framework\EF - Practics\Practics_DataAcsess\obj\Debug\net6.0\Practics_DataAcsess.csproj.CoreCompileInputs.cache
+C:\Users\orkha\OneDrive\Desktop\StepIT-master\Entity Framework\EF - Practics\Practics_DataAcsess\obj\Debug\net6.0\Practics_DataAcsess.sourcelink.json
+C:\Users\orkha\OneDrive\Desktop\StepIT-master\Entity Framework\EF - Practics\Practics_DataAcsess\obj\Debug\net6.0\Practics_DataAcsess.csproj.CopyComplete
+C:\Users\orkha\OneDrive\Desktop\StepIT-master\Entity Framework\EF - Practics\Practics_DataAcsess\obj\Debug\net6.0\Practics_DataAcsess.dll
+C:\Users\orkha\OneDrive\Desktop\StepIT-master\Entity Framework\EF - Practics\Practics_DataAcsess\obj\Debug\net6.0\refint\Practics_DataAcsess.dll
+C:\Users\orkha\OneDrive\Desktop\StepIT-master\Entity Framework\EF - Practics\Practics_DataAcsess\obj\Debug\net6.0\Practics_DataAcsess.pdb
+C:\Users\orkha\OneDrive\Desktop\StepIT-master\Entity Framework\EF - Practics\Practics_DataAcsess\obj\Debug\net6.0\Practics_DataAcsess.genruntimeconfig.cache
+C:\Users\orkha\OneDrive\Desktop\StepIT-master\Entity Framework\EF - Practics\Practics_DataAcsess\obj\Debug\net6.0\ref\Practics_DataAcsess.dll

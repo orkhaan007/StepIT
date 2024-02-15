@@ -7494,19 +7494,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\orkha_wpyrape\\.nuget\\packages\\": {}
+    "C:\\Users\\orkha\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\orkha_wpyrape\\source\\repos\\Practics\\Practics_ConsoleAPP\\Practics_ConsoleAPP.csproj",
+      "projectUniqueName": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT-master\\Entity Framework\\EF - Practics\\Practics_ConsoleAPP\\Practics_ConsoleAPP.csproj",
       "projectName": "Practics_ConsoleAPP",
-      "projectPath": "C:\\Users\\orkha_wpyrape\\source\\repos\\Practics\\Practics_ConsoleAPP\\Practics_ConsoleAPP.csproj",
-      "packagesPath": "C:\\Users\\orkha_wpyrape\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\orkha_wpyrape\\source\\repos\\Practics\\Practics_ConsoleAPP\\obj\\",
+      "projectPath": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT-master\\Entity Framework\\EF - Practics\\Practics_ConsoleAPP\\Practics_ConsoleAPP.csproj",
+      "packagesPath": "C:\\Users\\orkha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT-master\\Entity Framework\\EF - Practics\\Practics_ConsoleAPP\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\orkha_wpyrape\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\orkha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7520,11 +7525,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\orkha_wpyrape\\source\\repos\\Practics\\Practics_DataAcsess\\Practics_DataAcsess.csproj": {
-              "projectPath": "C:\\Users\\orkha_wpyrape\\source\\repos\\Practics\\Practics_DataAcsess\\Practics_DataAcsess.csproj"
+            "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT-master\\Entity Framework\\EF - Practics\\Practics_DataAcsess\\Practics_DataAcsess.csproj": {
+              "projectPath": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT-master\\Entity Framework\\EF - Practics\\Practics_DataAcsess\\Practics_DataAcsess.csproj"
             },
-            "C:\\Users\\orkha_wpyrape\\source\\repos\\Practics\\Practics_Model\\Practics_Model.csproj": {
-              "projectPath": "C:\\Users\\orkha_wpyrape\\source\\repos\\Practics\\Practics_Model\\Practics_Model.csproj"
+            "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT-master\\Entity Framework\\EF - Practics\\Practics_Model\\Practics_Model.csproj": {
+              "projectPath": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT-master\\Entity Framework\\EF - Practics\\Practics_Model\\Practics_Model.csproj"
             }
           }
         }
@@ -7584,7 +7589,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Practics_DataAcsess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fc8aaf5749cd776b9706ed312c9bf82526da694")]
 [assembly: System.Reflection.AssemblyProductAttribute("Practics_DataAcsess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Practics_DataAcsess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
