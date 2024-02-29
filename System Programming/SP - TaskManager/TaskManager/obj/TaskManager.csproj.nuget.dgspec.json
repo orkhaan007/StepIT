@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\orkha\\source\\repos\\TaskManager\\TaskManager\\TaskManager.csproj": {}
+    "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\System Programming\\SP - TaskManager\\TaskManager\\TaskManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\orkha\\source\\repos\\TaskManager\\TaskManager\\TaskManager.csproj": {
+    "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\System Programming\\SP - TaskManager\\TaskManager\\TaskManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\orkha\\source\\repos\\TaskManager\\TaskManager\\TaskManager.csproj",
+        "projectUniqueName": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\System Programming\\SP - TaskManager\\TaskManager\\TaskManager.csproj",
         "projectName": "TaskManager",
-        "projectPath": "C:\\Users\\orkha\\source\\repos\\TaskManager\\TaskManager\\TaskManager.csproj",
+        "projectPath": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\System Programming\\SP - TaskManager\\TaskManager\\TaskManager.csproj",
         "packagesPath": "C:\\Users\\orkha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\orkha\\source\\repos\\TaskManager\\TaskManager\\obj\\",
+        "outputPath": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\System Programming\\SP - TaskManager\\TaskManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6rtj+fa88lErOcBmOybxscvTWEW1QmtU74gwh0+vgYUEe6ESdWZQIWQh/moWS3eiBe+Yx9cNzCtni0VW9hzovA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\orkha\\source\\repos\\ThreadManager\\ThreadManager\\ThreadManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\orkha\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\orkha\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\orkha\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
