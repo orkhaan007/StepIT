@@ -1,0 +1,40 @@
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\bin\Debug\net6.0-windows\Client Side.exe
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\bin\Debug\net6.0-windows\Client Side.deps.json
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\bin\Debug\net6.0-windows\Client Side.runtimeconfig.json
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\bin\Debug\net6.0-windows\Client Side.dll
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\bin\Debug\net6.0-windows\Client Side.pdb
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\obj\Debug\net6.0-windows\Client Side_MarkupCompile.cache
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\obj\Debug\net6.0-windows\Client Side_MarkupCompile.lref
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\obj\Debug\net6.0-windows\Client Side.g.resources
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\obj\Debug\net6.0-windows\Client Side.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\obj\Debug\net6.0-windows\Client Side.AssemblyInfoInputs.cache
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\obj\Debug\net6.0-windows\Client Side.AssemblyInfo.cs
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\obj\Debug\net6.0-windows\Client Side.csproj.CoreCompileInputs.cache
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\obj\Debug\net6.0-windows\Client Side.dll
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\obj\Debug\net6.0-windows\refint\Client Side.dll
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\obj\Debug\net6.0-windows\Client Side.pdb
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\obj\Debug\net6.0-windows\Client Side.genruntimeconfig.cache
+C:\Users\orkha\source\repos\Share Screen UDP Client\Client Side\obj\Debug\net6.0-windows\ref\Client Side.dll
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\bin\Debug\net6.0-windows\Client Side.exe
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\bin\Debug\net6.0-windows\Client Side.deps.json
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\bin\Debug\net6.0-windows\Client Side.runtimeconfig.json
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\bin\Debug\net6.0-windows\Client Side.dll
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\bin\Debug\net6.0-windows\Client Side.pdb
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\obj\Debug\net6.0-windows\Client Side_MarkupCompile.cache
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\obj\Debug\net6.0-windows\Client Side_MarkupCompile.lref
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\obj\Debug\net6.0-windows\Client Side.g.resources
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\obj\Debug\net6.0-windows\Client Side.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\obj\Debug\net6.0-windows\Client Side.AssemblyInfoInputs.cache
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\obj\Debug\net6.0-windows\Client Side.AssemblyInfo.cs
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\obj\Debug\net6.0-windows\Client Side.csproj.CoreCompileInputs.cache
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\obj\Debug\net6.0-windows\Client Side.dll
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\obj\Debug\net6.0-windows\refint\Client Side.dll
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\obj\Debug\net6.0-windows\Client Side.pdb
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\obj\Debug\net6.0-windows\Client Side.genruntimeconfig.cache
+C:\Users\orkha\source\repos\Share Screen UDP\Client Side\obj\Debug\net6.0-windows\ref\Client Side.dll
