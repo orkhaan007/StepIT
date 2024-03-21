@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eewkJbYBaXlXigzKTyG2oHiz2RXrt4bdqbtO6lNLfQq4xvw/yuEMZZ9YNMEi4LY8r1jvJ78H8p9tCbcyiuHq+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\orkha\\source\\repos\\Share Screen UDP\\Server Side\\Server Side.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\orkha\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\orkha\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
