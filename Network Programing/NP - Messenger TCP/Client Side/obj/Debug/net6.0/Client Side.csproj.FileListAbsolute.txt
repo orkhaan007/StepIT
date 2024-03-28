@@ -1,0 +1,25 @@
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\bin\Debug\net6.0\Client Side.exe
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\bin\Debug\net6.0\Client Side.deps.json
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\bin\Debug\net6.0\Client Side.runtimeconfig.json
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\bin\Debug\net6.0\Client Side.dll
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\bin\Debug\net6.0\Client Side.pdb
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\obj\Debug\net6.0\Client Side.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\obj\Debug\net6.0\Client Side.AssemblyInfoInputs.cache
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\obj\Debug\net6.0\Client Side.AssemblyInfo.cs
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\obj\Debug\net6.0\Client Side.csproj.CoreCompileInputs.cache
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\obj\Debug\net6.0\Client Side.dll
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\obj\Debug\net6.0\refint\Client Side.dll
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\obj\Debug\net6.0\Client Side.pdb
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\obj\Debug\net6.0\Client Side.genruntimeconfig.cache
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\obj\Debug\net6.0\ref\Client Side.dll
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\obj\Debug\net6.0\Client Side.csproj.AssemblyReference.cache
+C:\Users\orkha\source\repos\Messenger TCP\Client Side\obj\Debug\net6.0\Client Side.csproj.CopyComplete
