@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\orkha\\OneDrive\\Desktop\\MailProtocols\\Practics\\Http.csproj": {}
+    "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\Network Programing\\NP - Http\\Practics\\Http.csproj": {}
   },
   "projects": {
-    "C:\\Users\\orkha\\OneDrive\\Desktop\\MailProtocols\\Practics\\Http.csproj": {
+    "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\Network Programing\\NP - Http\\Practics\\Http.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\orkha\\OneDrive\\Desktop\\MailProtocols\\Practics\\Http.csproj",
+        "projectUniqueName": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\Network Programing\\NP - Http\\Practics\\Http.csproj",
         "projectName": "Http",
-        "projectPath": "C:\\Users\\orkha\\OneDrive\\Desktop\\MailProtocols\\Practics\\Http.csproj",
+        "projectPath": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\Network Programing\\NP - Http\\Practics\\Http.csproj",
         "packagesPath": "C:\\Users\\orkha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\orkha\\OneDrive\\Desktop\\MailProtocols\\Practics\\obj\\",
+        "outputPath": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\Network Programing\\NP - Http\\Practics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 ﻿using System.Net;
 using System.Net.Mail;
 
-var fromEmail = "orkhanm07@gmail.com";
-var fromPassword = "zupf xugi xdqi vxnm";
+var fromEmail = "your_email";
+var fromPassword = "your_password";
 
 var smtpEmail = new SmtpClient("smtp.gmail.com", 587);
 smtpEmail.EnableSsl = true;
