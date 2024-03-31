@@ -1,0 +1,14 @@
+C:\Users\orkha\OneDrive\Desktop\MailProtocols\Practics\bin\Debug\net6.0\Http.exe
+C:\Users\orkha\OneDrive\Desktop\MailProtocols\Practics\bin\Debug\net6.0\Http.deps.json
+C:\Users\orkha\OneDrive\Desktop\MailProtocols\Practics\bin\Debug\net6.0\Http.runtimeconfig.json
+C:\Users\orkha\OneDrive\Desktop\MailProtocols\Practics\bin\Debug\net6.0\Http.dll
+C:\Users\orkha\OneDrive\Desktop\MailProtocols\Practics\bin\Debug\net6.0\Http.pdb
+C:\Users\orkha\OneDrive\Desktop\MailProtocols\Practics\obj\Debug\net6.0\Http.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkha\OneDrive\Desktop\MailProtocols\Practics\obj\Debug\net6.0\Http.AssemblyInfoInputs.cache
+C:\Users\orkha\OneDrive\Desktop\MailProtocols\Practics\obj\Debug\net6.0\Http.AssemblyInfo.cs
+C:\Users\orkha\OneDrive\Desktop\MailProtocols\Practics\obj\Debug\net6.0\Http.csproj.CoreCompileInputs.cache
+C:\Users\orkha\OneDrive\Desktop\MailProtocols\Practics\obj\Debug\net6.0\Http.dll
+C:\Users\orkha\OneDrive\Desktop\MailProtocols\Practics\obj\Debug\net6.0\refint\Http.dll
+C:\Users\orkha\OneDrive\Desktop\MailProtocols\Practics\obj\Debug\net6.0\Http.pdb
+C:\Users\orkha\OneDrive\Desktop\MailProtocols\Practics\obj\Debug\net6.0\Http.genruntimeconfig.cache
+C:\Users\orkha\OneDrive\Desktop\MailProtocols\Practics\obj\Debug\net6.0\ref\Http.dll
