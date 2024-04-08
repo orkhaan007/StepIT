@@ -1,0 +1,28 @@
+.ellipseClients {
+    width: 140px;
+    height: 130px;
+    border: 5px solid #e6983f;
+    border-radius: 50%;
+    box-sizing: border-box;
+}
+.ellipseExperince {
+    width: 140px;
+    height: 130px;
+    border: 5px solid #f52f6e;
+    border-radius: 50%;
+    box-sizing: border-box;
+}
+.ellipseHours {
+    width: 140px;
+    height: 130px;
+    border: 5px solid #5e9ef5;
+    border-radius: 50%;
+    box-sizing: border-box;
+}
+.ellipseProjects {
+    width: 140px;
+    height: 130px;
+    border: 5px solid #5adfc3;
+    border-radius: 50%;
+    box-sizing: border-box;
+}

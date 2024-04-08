@@ -24,6 +24,7 @@ This repository contains homework assignments for the Step It project. Each assi
 - [Entity Framework](./Entity%20Framework): Homework assignments related to Entity Framework.
 - [System Programing](./System%20Programming): Homework assignments related to System Programing.
 - [Network Programing](./Network%20Programming): Homework assignments related to Network Programing.
+- [HTML](./HTML): Homework assignments related to HTML.
 
 Each language folder contains its own set of homework assignments. Feel free to explore and contribute to the tasks that interest you.
 
