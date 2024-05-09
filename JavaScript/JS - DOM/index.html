@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Task</title>
+    <script src="js/index.js"></script>
+</head>
+<body>
+    <main>
+
+        <p>-------------------------------------------------------------------------------------------------------------------</p>
+
+        <div id="productCards">
+            
+        </div>
+
+        <p>-------------------------------------------------------------------------------------------------------------------</p>
+
+        <div id="commentMessages">
+
+        </div>
+
+        <p>-------------------------------------------------------------------------------------------------------------------</p>
+
+        <div id="menuItems">
+            
+        </div>
+
+        <p>-------------------------------------------------------------------------------------------------------------------</p>
+
+        <script>
+            const productCardsDiv = document.getElementById("productCards");
+            productCardsDiv.appendChild(createProductCard("Product 1", "$10", "image1.jpg"));
+            productCardsDiv.appendChild(createProductCard("Product 2", "$20", "image2.jpg"));
+        
+            const commentMessagesDiv = document.getElementById("commentMessages");
+            commentMessagesDiv.appendChild(createCommentMessage("Author 1", "Great product!", "2024-05-07"));
+            commentMessagesDiv.appendChild(createCommentMessage("Author 2", "Very nice!", "2024-05-08"));
+        
+            const menuItemsDiv = document.getElementById("menuItems");
+            menuItemsDiv.appendChild(createMenuItem("Dish 1", "$15", "Very tasty dish"));
+            menuItemsDiv.appendChild(createMenuItem("Dish 2", "$25", "The best dish"));
+        </script>        
+
+    </main>
+</body>
+</html>
