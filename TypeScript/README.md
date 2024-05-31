@@ -33,7 +33,7 @@ This project demonstrates a simple utility application built with TypeScript, HT
     ```sh
     npm run dev
 
-4. Project Structure
+### Project Structure
     - index.html: The main HTML file.
     - src/main.ts: The entry point of the TypeScript application.
     - src/myString.ts: The file containing the MyString class with various string manipulation methods.
