@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Movie App</h1>
+        <form id="search-form">
+            <label for="title">Movie Title:</label>
+            <input type="text" id="title" name="title" required>
+            <label for="type">Type:</label>
+            <select id="type" name="type">
+                <option value="movie">Movie</option>
+                <option value="series">Series</option>
+                <option value="episode">Episode</option>
+            </select>
+            <button type="submit">Search</button>
+        </form>
+        <div id="results"></div>
+        <div class="pagination"></div>
+    </div>
+    <script src="js/index.js"></script>
+</body>
+</html>

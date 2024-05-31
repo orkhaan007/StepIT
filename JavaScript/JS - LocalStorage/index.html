@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+    <h1>Contact Form</h1>
+
+    <div class="contact-form">
+        <h2>Add New Contact</h2>
+        <form id="addContactForm">
+            <label for="firstName">Name:</label>
+            <input type="text" id="firstName" name="firstName" required>
+            <label for="lastName">Surname:</label>
+            <input type="text" id="lastName" name="lastName" required>
+            <label for="phoneNumber">Phone:</label>
+            <input type="text" id="phoneNumber" name="phoneNumber" required>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <button type="submit">Add</button>
+        </form>
+    </div>
+    
+    <div class="filter-form">
+        <h2>Filter</h2>
+        <label for="filterCriteria">Criterion:</label>
+        <select id="filterCriteria">
+            <option value="firstName">Name</option>
+            <option value="lastName">Surname</option>
+            <option value="phoneNumber">Phone</option>
+            <option value="email">Email</option>
+        </select>
+        <input type="text" id="filterValue" placeholder="Filter Criterion">
+        <button id="filterButton">Filter</button>
+    </div>
+    
+    <div class="contact-list">
+        <h2>Contacts</h2>
+        <ul id="contactList"></ul>
+        <div id="pagination">
+            <button id="prevPage">Previous</button>
+            <span id="pageInfo"></span>
+            <button id="nextPage">Next</button>
+        </div>
+    </div>
+
+    <script src="js/index.js"></script>
+</body>
+</html>
