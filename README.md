@@ -26,6 +26,7 @@ This repository contains homework assignments for the Step It project. Each assi
 - [Network Programing](./Network%20Programming): Homework assignments related to Network Programing.
 - [HTML](./HTML): Homework assignments related to HTML.
 - [JavaScript](./JavaScript): Homework assignments related to JavaScript.
+- [JavaScript](./TypeScript): Homework assignments related to TypeScript.
 
 Each language folder contains its own set of homework assignments. Feel free to explore and contribute to the tasks that interest you.
 

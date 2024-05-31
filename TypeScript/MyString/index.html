@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite</title>
+    <link rel="stylesheet" href="src/style.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="input-group">
+        <label for="inputString">Input:</label>
+        <input type="text" id="inputString" value="qwerty">
+      </div>
+
+      <div class="input-group">
+        <label for="index">Index:</label>
+        <input type="number" id="index" value="0">
+      </div>
+
+      <div class="input-group">
+        <label for="sign">Sign:</label>
+        <input type="text" id="sign">
+      </div>
+
+      <div class="buttons">
+        <button id="removeButton">Remove</button>
+        <button id="insertButton">Insert</button>
+        <button id="trimSignButton">Trim Sign</button>
+        <button id="toggleButton">Toggle</button>
+        <button id="counterButton">Counter</button>
+      </div>
+
+      <div id="output"></div>
+    </div>
+
+    <script type="module" src="src/main.ts"></script>
+  </body>
+</html>
