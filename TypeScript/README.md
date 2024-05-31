@@ -26,9 +26,11 @@ This project demonstrates a simple utility application built with TypeScript, HT
    cd mystring-utility-app
 
 2. Install the dependencies:
+    ```sh
     npm i
 
 3. Running the App To start the development server and run the app locally, use the following command:
+    ```sh
     npm run dev
 
 4. Project Structure
