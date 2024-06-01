@@ -37,7 +37,7 @@ This project demonstrates a simple utility application built with TypeScript, HT
 - [index.html](MyString/index.html): The main HTML file.
 - [src/main.ts](MyString/src/main.ts): The entry point of the TypeScript application.
 - [src/myString.ts](MyString/src/myString.ts): The file containing the MyString class with various string manipulation methods.
-- [style.css](MyString/src/style.css): The CSS file for styling the application.
+- [src/style.css](MyString/src/style.css): The CSS file for styling the application.
 
 5. Usage
     - Enter the string you want to manipulate in the "Input String" field.
