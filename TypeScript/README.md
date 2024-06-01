@@ -39,18 +39,12 @@ This project demonstrates a simple utility application built with TypeScript, HT
 - [src/myString.ts](MyString/src/myString.ts): The file containing the MyString class with various string manipulation methods.
 - [src/style.css](MyString/src/style.css): The CSS file for styling the application.
 
-5. Usage
-    - Enter the string you want to manipulate in the "Input String" field.
-    - Specify an index if needed (for remove or insert operations).
-    - Specify a character if needed (for insert or counter operations).
-    - Click the appropriate button to perform the desired action.
-    - The result will be displayed in the output area.
-
-6. Example
-    - Enter "qwerty" in the "Input String" field.
-    - Enter "0" in the "Index" field.
-    - Click "Remove" to remove the character at index 0.
-    - The result "werty" will be displayed in the output area.
+## Usage
+- Enter the string you want to manipulate in the "Input String" field.
+- Specify an index if needed (for remove or insert operations).
+- Specify a character if needed (for insert or counter operations).
+- Click the appropriate button to perform the desired action.
+- The result will be displayed in the output area.
 
 7. License
     
