@@ -20,8 +20,8 @@ Vite is a tool that provides a fast development environment for modern JavaScrip
 
 1. Clone the repository to your local machine:
 
-   `git clone https://github.com/orkhaan007/StepIT.git`
-   `cd StepIT/TypeScript/Exp` (replace `Exp` with your chosen project)
+- `git clone https://github.com/orkhaan007/StepIT.git`
+- `cd StepIT/TypeScript/Exp` (replace `Exp` with your chosen project)
 
 2. Install the dependencies:
     ```sh
