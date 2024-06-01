@@ -46,5 +46,18 @@ This project demonstrates a simple utility application built with TypeScript, HT
 - Click the appropriate button to perform the desired action.
 - The result will be displayed in the output area.
 
-7. License
-    
+## Contributing
+
+We welcome contributions! If you'd like to contribute, please fork the repository and create a pull request. Feel free to open issues for feature requests or bug reports.
+
+## Contact
+
+Have questions or feedback? Feel free to reach out to us via email at [orkhanm07@gmail.com](mailto:orkhanm07@gmail.com).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Happy exploring! 🏁
