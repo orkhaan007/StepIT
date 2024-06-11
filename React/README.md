@@ -1,4 +1,4 @@
-# Vite with TypeScript React
+# Vite with React
 
 Vite is a tool that provides a fast development environment for modern JavaScript and TypeScript applications. It enables you to quickly initialize, develop, and deploy your projects. Vite offers a flexible and speedy development server, compiling only the files that are being used, resulting in fast reload times. When used with TypeScript, it provides benefits such as type safety and code autocompletion, leading to a safer and more efficient development experience. This combination forms a robust foundation for creating modern web applications.
 
