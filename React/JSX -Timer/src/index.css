@@ -1,0 +1,98 @@
+:root {
+  --primary-color: #007bff;
+  --secondary-color: #ff4757;
+  --background-color: #f7f9fc;
+  --text-color: #4a4a4a;
+  --border-radius: 12px;
+  --box-shadow: rgba(0, 0, 0, 0.1) 0px 6px 20px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: var(--text-color);
+  background-color: var(--background-color);
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  padding: 40px;
+  border-radius: var(--border-radius);
+  background-color: #fff;
+  box-shadow: var(--box-shadow);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.container:hover {
+  transform: translateY(-10px);
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 30px;
+}
+
+.current-time {
+  margin-bottom: 20px;
+}
+
+.current-time h1 {
+  font-size: 2.5em;
+  margin: 0;
+  color: var(--primary-color);
+}
+
+.timer {
+  margin-top: 20px;
+}
+
+.timer-input {
+  padding: 12px;
+  font-size: 1em;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin-bottom: 20px;
+  width: calc(100% - 24px);
+  transition: border-color 0.3s ease;
+}
+
+.timer-input:focus {
+  border-color: var(--primary-color);
+}
+
+.timer-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.btn {
+  padding: 12px 24px;
+  font-size: 1em;
+  border: none;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  color: #fff;
+  transition: background-color 0.3s ease, opacity 0.3s ease;
+}
+
+.btn-start {
+  background-color: var(--primary-color);
+}
+
+.btn-reset {
+  background-color: var(--secondary-color);
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+h2 {
+  margin-top: 20px;
+}
