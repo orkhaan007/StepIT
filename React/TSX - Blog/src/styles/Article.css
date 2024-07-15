@@ -1,0 +1,18 @@
+.article-container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .article-container h1 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .article-container p {
+    color: #666;
+    line-height: 1.6;
+  }
