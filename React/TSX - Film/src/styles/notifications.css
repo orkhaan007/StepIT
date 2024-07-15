@@ -1,0 +1,59 @@
+.notification-list {
+    margin-top: 20px;
+  }
+  
+  .notification-item {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .notification-item p {
+    margin: 0;
+  }
+  
+  .notification-item button {
+    background-color: transparent;
+    border: none;
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+  .notification-item.success {
+    border-color: #28a745;
+    color: #28a745;
+  }
+  
+  .notification-item.error {
+    border-color: #dc3545;
+    color: #dc3545;
+  }
+  
+  .notification-item.info {
+    border-color: #17a2b8;
+    color: #17a2b8;
+  }
+  
+  .add-notification-form {
+    margin-bottom: 20px;
+  }
+  
+  .add-notification-form input,
+  .add-notification-form select {
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .add-notification-form button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
