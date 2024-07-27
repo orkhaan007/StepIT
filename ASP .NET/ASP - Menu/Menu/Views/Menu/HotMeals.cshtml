@@ -1,0 +1,27 @@
+﻿@model List<HotMeal>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hot Meals</title>
+    <link rel="stylesheet" href="~/css/Menu.css">
+</head>
+<body>
+    <section class="container">
+        <h1 class="section-title">Hot Meals</h1>
+        <ul class="list">
+            @foreach (var hotMeal in Model)
+            {
+                <li class="item">
+                    <h3>@hotMeal.Name</h3>
+                    <p class="description">@hotMeal.Description</p>
+                    <p class="price">Price: $@hotMeal.Price</p>
+                    <p>Soup: @(hotMeal.isSoup ? "Yes" : "No")</p>
+                </li>
+            }
+        </ul>
+    </section>
+</body>
+</html>

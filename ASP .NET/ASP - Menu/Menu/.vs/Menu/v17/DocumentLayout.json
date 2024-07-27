@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\orkha\\source\\repos\\Menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\views\\menu\\drinks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\views\\menu\\drinks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\wwwroot\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\wwwroot\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\views\\menu\\hotmeals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\views\\menu\\hotmeals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\views\\menu\\fastfoods.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\views\\menu\\fastfoods.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\models\\hotmealsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\models\\hotmealsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\models\\foodviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\models\\foodviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\models\\fastfoodsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\models\\fastfoodsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\models\\drinksviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\models\\drinksviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\entities\\hotmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\entities\\hotmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\entities\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\entities\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\entities\\fastfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\entities\\fastfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\entities\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\entities\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|c:\\users\\orkha\\source\\repos\\menu\\menu\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E870D3-0DD6-48E2-9FC7-9426B7135A74}|Menu\\Menu.csproj|solutionrelative:menu\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Menu\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Menu\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-27T19:54:50.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.css",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\wwwroot\\css\\Menu.css",
+              "RelativeDocumentMoniker": "Menu\\wwwroot\\css\\Menu.css",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\wwwroot\\css\\Menu.css",
+              "RelativeToolTip": "Menu\\wwwroot\\css\\Menu.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-27T19:51:09.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Menu\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Menu\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T19:50:03.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Entities\\Food.cs",
+              "RelativeDocumentMoniker": "Menu\\Entities\\Food.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Entities\\Food.cs",
+              "RelativeToolTip": "Menu\\Entities\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:03:42.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FastFood.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Entities\\FastFood.cs",
+              "RelativeDocumentMoniker": "Menu\\Entities\\FastFood.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Entities\\FastFood.cs",
+              "RelativeToolTip": "Menu\\Entities\\FastFood.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:03:34.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HotMeal.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Entities\\HotMeal.cs",
+              "RelativeDocumentMoniker": "Menu\\Entities\\HotMeal.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Entities\\HotMeal.cs",
+              "RelativeToolTip": "Menu\\Entities\\HotMeal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:03:03.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Drinks.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Views\\Menu\\Drinks.cshtml",
+              "RelativeDocumentMoniker": "Menu\\Views\\Menu\\Drinks.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Views\\Menu\\Drinks.cshtml",
+              "RelativeToolTip": "Menu\\Views\\Menu\\Drinks.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T09:56:22.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FastFoods.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Views\\Menu\\FastFoods.cshtml",
+              "RelativeDocumentMoniker": "Menu\\Views\\Menu\\FastFoods.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Views\\Menu\\FastFoods.cshtml",
+              "RelativeToolTip": "Menu\\Views\\Menu\\FastFoods.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T09:56:52.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotMeals.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Views\\Menu\\HotMeals.cshtml",
+              "RelativeDocumentMoniker": "Menu\\Views\\Menu\\HotMeals.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Views\\Menu\\HotMeals.cshtml",
+              "RelativeToolTip": "Menu\\Views\\Menu\\HotMeals.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T09:56:40.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "Menu\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "Menu\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T09:52:40.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Program.cs",
+              "RelativeDocumentMoniker": "Menu\\Program.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Program.cs",
+              "RelativeToolTip": "Menu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:15:59.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Menu\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Menu\\Controllers\\MenuController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T18:41:27.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Menu\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Menu\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T18:27:05.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FoodViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Models\\FoodViewModel.cs",
+              "RelativeDocumentMoniker": "Menu\\Models\\FoodViewModel.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Models\\FoodViewModel.cs",
+              "RelativeToolTip": "Menu\\Models\\FoodViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:06:57.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Menu\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Menu\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:52:30.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HotMealsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Models\\HotMealsViewModel.cs",
+              "RelativeDocumentMoniker": "Menu\\Models\\HotMealsViewModel.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Models\\HotMealsViewModel.cs",
+              "RelativeToolTip": "Menu\\Models\\HotMealsViewModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:07:21.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FastFoodsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Models\\FastFoodsViewModel.cs",
+              "RelativeDocumentMoniker": "Menu\\Models\\FastFoodsViewModel.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Models\\FastFoodsViewModel.cs",
+              "RelativeToolTip": "Menu\\Models\\FastFoodsViewModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:07:57.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DrinksViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Models\\DrinksViewModel.cs",
+              "RelativeDocumentMoniker": "Menu\\Models\\DrinksViewModel.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Models\\DrinksViewModel.cs",
+              "RelativeToolTip": "Menu\\Models\\DrinksViewModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwDgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:08:00.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Entities\\Drink.cs",
+              "RelativeDocumentMoniker": "Menu\\Entities\\Drink.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Entities\\Drink.cs",
+              "RelativeToolTip": "Menu\\Entities\\Drink.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:02:49.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Menu\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Menu\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T18:28:22.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Menu\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Menu\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T11:15:52.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Menu\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Menu\\Menu\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Menu\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:07:59.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

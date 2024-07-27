@@ -1,0 +1,61 @@
+C:\Users\orkha\source\repos\Menu\Menu\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\orkha\source\repos\Menu\Menu\bin\Debug\net6.0\appsettings.json
+C:\Users\orkha\source\repos\Menu\Menu\bin\Debug\net6.0\Menu.staticwebassets.runtime.json
+C:\Users\orkha\source\repos\Menu\Menu\bin\Debug\net6.0\Menu.exe
+C:\Users\orkha\source\repos\Menu\Menu\bin\Debug\net6.0\Menu.deps.json
+C:\Users\orkha\source\repos\Menu\Menu\bin\Debug\net6.0\Menu.runtimeconfig.json
+C:\Users\orkha\source\repos\Menu\Menu\bin\Debug\net6.0\Menu.dll
+C:\Users\orkha\source\repos\Menu\Menu\bin\Debug\net6.0\Menu.pdb
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\Menu.AssemblyInfoInputs.cache
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\Menu.AssemblyInfo.cs
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\Menu.csproj.CoreCompileInputs.cache
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\Menu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\Menu.RazorAssemblyInfo.cache
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\Menu.RazorAssemblyInfo.cs
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\staticwebassets\msbuild.Menu.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\staticwebassets\msbuild.build.Menu.props
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Menu.props
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Menu.props
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\scopedcss\bundle\Menu.styles.css
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\scopedcss\projectbundle\Menu.bundle.scp.css
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\Menu.dll
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\refint\Menu.dll
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\Menu.pdb
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\Menu.genruntimeconfig.cache
+C:\Users\orkha\source\repos\Menu\Menu\obj\Debug\net6.0\ref\Menu.dll
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\bin\Debug\net6.0\appsettings.json
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\bin\Debug\net6.0\Menu.staticwebassets.runtime.json
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\bin\Debug\net6.0\Menu.exe
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\bin\Debug\net6.0\Menu.deps.json
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\bin\Debug\net6.0\Menu.runtimeconfig.json
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\bin\Debug\net6.0\Menu.dll
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\bin\Debug\net6.0\Menu.pdb
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\Menu.AssemblyInfoInputs.cache
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\Menu.AssemblyInfo.cs
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\Menu.csproj.CoreCompileInputs.cache
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\Menu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\Menu.RazorAssemblyInfo.cache
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\Menu.RazorAssemblyInfo.cs
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\Menu.sourcelink.json
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\staticwebassets\msbuild.Menu.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\staticwebassets\msbuild.build.Menu.props
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Menu.props
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Menu.props
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\scopedcss\bundle\Menu.styles.css
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\scopedcss\projectbundle\Menu.bundle.scp.css
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\Menu.dll
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\refint\Menu.dll
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\Menu.pdb
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\Menu.genruntimeconfig.cache
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\ASP - Menu\Menu\obj\Debug\net6.0\ref\Menu.dll

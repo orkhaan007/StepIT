@@ -1,0 +1,55 @@
+﻿@model FoodViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Product</title>
+    <link rel="stylesheet" href="~/css/Menu.css">
+</head>
+<body>
+    <section class="container">
+
+        <h2 class="section-title">All Drinks:</h2>
+        <ul class="list">
+            @foreach (var drink in Model.Drinks)
+            {
+                <li class="item">
+                    <h3>@drink.Name</h3>
+                    <p class="price">Price: $@drink.Price</p>
+                    <p class="description">Description: @drink.Description</p>
+                    <p>Is Cold: @(drink.isCold ? "Yes" : "No")</p>
+                    <p>Is Iced: @(drink.isIced ? "Yes" : "No")</p>
+                </li>
+            }
+        </ul>
+
+        <h2 class="section-title">All Hot Meals:</h2>
+        <ul class="list">
+            @foreach (var meal in Model.HotMeals)
+            {
+                <li class="item">
+                    <h3>@meal.Name</h3>
+                    <p class="price">Price: $@meal.Price</p>
+                    <p class="description">Description: @meal.Description</p>
+                    <p>Is Soup: @(meal.isSoup ? "Yes" : "No")</p>
+                </li>
+            }
+        </ul>
+
+        <h2 class="section-title">All Fast Foods:</h2>
+        <ul class="list">
+            @foreach (var food in Model.FastFoods)
+            {
+                <li class="item">
+                    <h3>@food.Name</h3>
+                    <p class="price">Price: $@food.Price</p>
+                    <p class="description">Description: @food.Description</p>
+                    <p>Contains Pork: @(food.isPork ? "Yes" : "No")</p>
+                </li>
+            }
+        </ul>
+    </section>
+</body>
+</html>
