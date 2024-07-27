@@ -28,3 +28,34 @@ C:\Users\orkha\source\repos\Market\Market\obj\Debug\net6.0\refint\Market.dll
 C:\Users\orkha\source\repos\Market\Market\obj\Debug\net6.0\Market.pdb
 C:\Users\orkha\source\repos\Market\Market\obj\Debug\net6.0\Market.genruntimeconfig.cache
 C:\Users\orkha\source\repos\Market\Market\obj\Debug\net6.0\ref\Market.dll
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\bin\Debug\net6.0\appsettings.json
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\bin\Debug\net6.0\Market.staticwebassets.runtime.json
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\bin\Debug\net6.0\Market.exe
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\bin\Debug\net6.0\Market.deps.json
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\bin\Debug\net6.0\Market.runtimeconfig.json
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\bin\Debug\net6.0\Market.dll
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\bin\Debug\net6.0\Market.pdb
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\Market.AssemblyInfoInputs.cache
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\Market.AssemblyInfo.cs
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\Market.csproj.CoreCompileInputs.cache
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\Market.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\Market.RazorAssemblyInfo.cache
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\Market.RazorAssemblyInfo.cs
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\Market.sourcelink.json
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\staticwebassets\msbuild.Market.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\staticwebassets\msbuild.build.Market.props
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Market.props
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Market.props
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\scopedcss\bundle\Market.styles.css
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\scopedcss\projectbundle\Market.bundle.scp.css
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\Market.dll
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\refint\Market.dll
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\Market.pdb
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\Market.genruntimeconfig.cache
+C:\Users\orkha\OneDrive\Desktop\StepIT\ASP .NET\Market\Market\obj\Debug\net6.0\ref\Market.dll
