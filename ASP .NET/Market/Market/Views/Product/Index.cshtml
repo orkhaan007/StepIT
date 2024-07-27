@@ -1,0 +1,40 @@
+﻿@model Market.Models.ProductListViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product List</title>
+    <link rel="stylesheet" href="~/css/Products.css">
+</head>
+<body>
+    <section class="product-list">
+        @foreach (var item in Model.Products)
+        {
+            <section class="product-list__item">
+                <div class="product-list__image-container">
+                    @if (!string.IsNullOrEmpty(item.ImagePath))
+                    {
+                        <img src="@item.ImagePath" alt="@item.Name" class="product-list__image" />
+                    }
+                </div>
+                <div class="product-list__details">
+                    <h2>Name: @item.Name</h2>
+                    <p>Description: @item.Description</p>
+                    <strong>Price: @item.Price</strong>
+                    <strong>Discount: @item.Discount %</strong>
+                    <form asp-action="Remove" asp-controller="Product" method="get">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" class="product-list__remove-button">Remove</button>
+                    </form>
+                    <form asp-action="Update" asp-controller="Product" method="get">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" class="product-list__update-button">Update</button>
+                    </form>
+                </div>
+            </section>
+        }
+    </section>
+</body>
+</html>

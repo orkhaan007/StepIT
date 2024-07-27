@@ -1,0 +1,45 @@
+﻿@model Market.Models.ProductAddViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Product</title>
+    <link rel="stylesheet" href="~/css/AddProduct.css">
+</head>
+<body>
+    <section>
+        <form asp-controller="Product" asp-action="Add" enctype="multipart/form-data" class="product-form">
+            <section class="product-form__section">
+                <label asp-for="Product.Name" class="product-form__label"></label>
+                <input asp-for="Product.Name" class="product-form__input" />
+                <span class="product-form__validation" asp-validation-for="Product.Name"></span>
+            </section>
+            <section class="product-form__section">
+                <label asp-for="Product.Description" class="product-form__label"></label>
+                <input asp-for="Product.Description" class="product-form__input" />
+                <span class="product-form__validation" asp-validation-for="Product.Description"></span>
+            </section>
+            <section class="product-form__section">
+                <label asp-for="Product.Price" class="product-form__label"></label>
+                <input asp-for="Product.Price" class="product-form__input" />
+                <span class="product-form__validation" asp-validation-for="Product.Price"></span>
+            </section>
+            <section class="product-form__section">
+                <label asp-for="Product.Discount" class="product-form__label"></label>
+                <input asp-for="Product.Discount" class="product-form__input" />
+                <span class="product-form__validation" asp-validation-for="Product.Discount"></span>
+            </section>
+            <section class="product-form__section">
+                <label asp-for="Image" class="product-form__label"></label>
+                <input asp-for="Image" class="product-form__input" />
+                <span class="product-form__validation" asp-validation-for="Image"></span>
+            </section>
+            <section class="product-form__section">
+                <button type="submit" class="product-form__submit-button">Add</button>
+            </section>
+        </form>
+    </section>
+</body>
+</html>

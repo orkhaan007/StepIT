@@ -1,0 +1,46 @@
+﻿@model Market.Models.ProductUpdateViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update Product</title>
+    <link rel="stylesheet" href="~/css/UpdateProduct.css">
+</head>
+<body>
+    <section class="update-product-form">
+        <form asp-controller="Product" asp-action="Update" enctype="multipart/form-data" method="post">
+            <input type="hidden" asp-for="Product.Id" />
+            <section class="update-product-form__section">
+                <label asp-for="Product.Name" class="update-product-form__label"></label>
+                <input asp-for="Product.Name" class="update-product-form__input" />
+                <span asp-validation-for="Product.Name" class="update-product-form__validation"></span>
+            </section>
+            <section class="update-product-form__section">
+                <label asp-for="Product.Description" class="update-product-form__label"></label>
+                <input asp-for="Product.Description" class="update-product-form__input" />
+                <span asp-validation-for="Product.Description" class="update-product-form__validation"></span>
+            </section>
+            <section class="update-product-form__section">
+                <label asp-for="Product.Price" class="update-product-form__label"></label>
+                <input asp-for="Product.Price" class="update-product-form__input" />
+                <span asp-validation-for="Product.Price" class="update-product-form__validation"></span>
+            </section>
+            <section class="update-product-form__section">
+                <label asp-for="Product.Discount" class="update-product-form__label"></label>
+                <input asp-for="Product.Discount" class="update-product-form__input" />
+                <span asp-validation-for="Product.Discount" class="update-product-form__validation"></span>
+            </section>
+            <section class="update-product-form__section">
+                <label asp-for="Image" class="update-product-form__label"></label>
+                <input asp-for="Image" type="file" class="update-product-form__input" />
+                <span asp-validation-for="Image" class="update-product-form__validation"></span>
+            </section>
+            <section class="update-product-form__section">
+                <button type="submit" class="update-product-form__submit-button">Update</button>
+            </section>
+        </form>
+    </section>
+</body>
+</html>
