@@ -1,69 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\",
+  "WorkspaceRootPath": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\market\\market\\models\\productaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\asp - market\\market\\models\\productaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|solutionrelative:market\\models\\productaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\market\\market\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\asp - market\\market\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|solutionrelative:market\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\market\\market\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\asp - market\\market\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|solutionrelative:market\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\market\\market\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\asp - market\\market\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|solutionrelative:market\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\market\\market\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\asp - market\\market\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|solutionrelative:market\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\market\\market\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\asp - market\\market\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|solutionrelative:market\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\market\\market\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\asp - market\\market\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|solutionrelative:market\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\market\\market\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\asp - market\\market\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|solutionrelative:market\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\market\\market\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\asp - market\\market\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|solutionrelative:market\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\market\\market\\wwwroot\\css\\products.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\asp - market\\market\\wwwroot\\css\\products.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|solutionrelative:market\\wwwroot\\css\\products.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\market\\market\\wwwroot\\css\\updateproduct.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\asp - market\\market\\wwwroot\\css\\updateproduct.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|solutionrelative:market\\wwwroot\\css\\updateproduct.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\market\\market\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\asp - market\\market\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|solutionrelative:market\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\market\\market\\models\\productupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\asp - market\\market\\models\\productupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|solutionrelative:market\\models\\productupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\market\\market\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\asp - market\\market\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|solutionrelative:market\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\market\\market\\wwwroot\\css\\addproduct.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\asp - market\\market\\wwwroot\\css\\addproduct.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|solutionrelative:market\\wwwroot\\css\\addproduct.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\market\\market\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|c:\\users\\orkha\\onedrive\\desktop\\stepit\\asp .net\\asp - market\\market\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A99BC9-40F0-41DE-BC36-60E825578047}|Market\\Market.csproj|solutionrelative:market\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,59 +74,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Products.css",
-              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\wwwroot\\css\\Products.css",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\wwwroot\\css\\Products.css",
               "RelativeDocumentMoniker": "Market\\wwwroot\\css\\Products.css",
-              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\wwwroot\\css\\Products.css",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\wwwroot\\css\\Products.css",
               "RelativeToolTip": "Market\\wwwroot\\css\\Products.css",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAAEUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-07-26T23:52:38.499Z",
               "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\appsettings.json",
-              "RelativeDocumentMoniker": "Market\\appsettings.json",
-              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\appsettings.json",
-              "RelativeToolTip": "Market\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-27T18:36:38.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Market\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Market\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T18:35:53.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Market\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Market\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T18:35:50.933Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -138,37 +99,47 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Market\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T18:35:50.933Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Market\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Market\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T00:27:03.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T00:27:03.426Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Views\\Product\\Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Views\\Product\\Update.cshtml",
               "RelativeDocumentMoniker": "Market\\Views\\Product\\Update.cshtml",
-              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Views\\Product\\Update.cshtml",
               "RelativeToolTip": "Market\\Views\\Product\\Update.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T00:18:41.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T00:18:41.415Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Market\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Market\\Controllers\\ProductController.cs",
               "ViewState": "AQIAADIAAAAAAAAAAAAIwDsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -178,61 +149,82 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Views\\Product\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Market\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Market\\Views\\Product\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T00:08:59.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T00:08:59.244Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Views\\Product\\Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Views\\Product\\Add.cshtml",
               "RelativeDocumentMoniker": "Market\\Views\\Product\\Add.cshtml",
-              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Views\\Product\\Add.cshtml",
               "RelativeToolTip": "Market\\Views\\Product\\Add.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T00:20:00.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T00:20:00.97Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Market\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Market\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T23:52:11.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T23:52:11.673Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductAddViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Models\\ProductAddViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Models\\ProductAddViewModel.cs",
               "RelativeDocumentMoniker": "Market\\Models\\ProductAddViewModel.cs",
-              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Models\\ProductAddViewModel.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Models\\ProductAddViewModel.cs",
               "RelativeToolTip": "Market\\Models\\ProductAddViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T23:52:10.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Market\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Market\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T18:35:53.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\appsettings.json",
+              "RelativeDocumentMoniker": "Market\\appsettings.json",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\appsettings.json",
+              "RelativeToolTip": "Market\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T18:36:38.222Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "ProductUpdateViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Models\\ProductUpdateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Models\\ProductUpdateViewModel.cs",
               "RelativeDocumentMoniker": "Market\\Models\\ProductUpdateViewModel.cs",
-              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Models\\ProductUpdateViewModel.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Models\\ProductUpdateViewModel.cs",
               "RelativeToolTip": "Market\\Models\\ProductUpdateViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -242,9 +234,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "ProductListViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Models\\ProductListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Models\\ProductListViewModel.cs",
               "RelativeDocumentMoniker": "Market\\Models\\ProductListViewModel.cs",
-              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Models\\ProductListViewModel.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Models\\ProductListViewModel.cs",
               "RelativeToolTip": "Market\\Models\\ProductListViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -254,9 +246,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "UpdateProduct.css",
-              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\wwwroot\\css\\UpdateProduct.css",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\wwwroot\\css\\UpdateProduct.css",
               "RelativeDocumentMoniker": "Market\\wwwroot\\css\\UpdateProduct.css",
-              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\wwwroot\\css\\UpdateProduct.css",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\wwwroot\\css\\UpdateProduct.css",
               "RelativeToolTip": "Market\\wwwroot\\css\\UpdateProduct.css",
               "ViewState": "AQIAABUAAAAAAAAAAAAAACoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -266,9 +258,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "AddProduct.css",
-              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\wwwroot\\css\\AddProduct.css",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\wwwroot\\css\\AddProduct.css",
               "RelativeDocumentMoniker": "Market\\wwwroot\\css\\AddProduct.css",
-              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\wwwroot\\css\\AddProduct.css",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\wwwroot\\css\\AddProduct.css",
               "RelativeToolTip": "Market\\wwwroot\\css\\AddProduct.css",
               "ViewState": "AQIAAAwAAAAAAAAAAAAswBkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -278,9 +270,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Entities\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Market\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Entities\\Product.cs",
               "RelativeToolTip": "Market\\Entities\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Market.csproj",
+      "projectUniqueName": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Market.csproj",
       "projectName": "Market",
-      "projectPath": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\Market.csproj",
+      "projectPath": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\Market.csproj",
       "packagesPath": "C:\\Users\\orkha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\Market\\Market\\obj\\",
+      "outputPath": "C:\\Users\\orkha\\OneDrive\\Desktop\\StepIT\\ASP .NET\\ASP - Market\\Market\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

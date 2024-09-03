@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Market",
+    "\\Market\\Models"
   ],
-  "SelectedNode": "\\Market.sln",
+  "SelectedNode": "\\Market\\Models\\ProductAddViewModel.cs",
   "PreviewInSolutionExplorer": false
 }
