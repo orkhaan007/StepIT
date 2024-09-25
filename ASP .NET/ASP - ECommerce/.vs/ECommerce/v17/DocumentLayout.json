@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E658A8B6-F9C0-4C1E-A684-A6EAC1AC5829}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\orkha\\onedrive\\desktop\\asp-ecommerce-version1-master\\ecommerce.webui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E658A8B6-F9C0-4C1E-A684-A6EAC1AC5829}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E658A8B6-F9C0-4C1E-A684-A6EAC1AC5829}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\orkha\\onedrive\\desktop\\asp-ecommerce-version1-master\\ecommerce.webui\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E658A8B6-F9C0-4C1E-A684-A6EAC1AC5829}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E658A8B6-F9C0-4C1E-A684-A6EAC1AC5829}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\orkha\\onedrive\\desktop\\asp-ecommerce-version1-master\\ecommerce.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E658A8B6-F9C0-4C1E-A684-A6EAC1AC5829}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E658A8B6-F9C0-4C1E-A684-A6EAC1AC5829}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\orkha\\onedrive\\desktop\\asp-ecommerce-version1-master\\ecommerce.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E658A8B6-F9C0-4C1E-A684-A6EAC1AC5829}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E658A8B6-F9C0-4C1E-A684-A6EAC1AC5829}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\orkha\\onedrive\\desktop\\asp-ecommerce-version1-master\\ecommerce.webui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E658A8B6-F9C0-4C1E-A684-A6EAC1AC5829}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E658A8B6-F9C0-4C1E-A684-A6EAC1AC5829}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\orkha\\onedrive\\desktop\\asp-ecommerce-version1-master\\ecommerce.webui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E658A8B6-F9C0-4C1E-A684-A6EAC1AC5829}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E658A8B6-F9C0-4C1E-A684-A6EAC1AC5829}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\orkha\\onedrive\\desktop\\asp-ecommerce-version1-master\\ecommerce.webui\\consts\\webuiconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E658A8B6-F9C0-4C1E-A684-A6EAC1AC5829}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\consts\\webuiconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33B6DE4-EBA9-4F51-B62F-53A039A77208}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\orkha\\onedrive\\desktop\\asp-ecommerce-version1-master\\ecommerce.dataaccess\\abstraction\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33B6DE4-EBA9-4F51-B62F-53A039A77208}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\abstraction\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33B6DE4-EBA9-4F51-B62F-53A039A77208}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\orkha\\onedrive\\desktop\\asp-ecommerce-version1-master\\ecommerce.dataaccess\\abstraction\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33B6DE4-EBA9-4F51-B62F-53A039A77208}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\abstraction\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D48F5A-44F0-4236-812C-386733C62C88}|ECommerce.Core\\ECommerce.Core.csproj|c:\\users\\orkha\\onedrive\\desktop\\asp-ecommerce-version1-master\\ecommerce.core\\dataaccess\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D48F5A-44F0-4236-812C-386733C62C88}|ECommerce.Core\\ECommerce.Core.csproj|solutionrelative:ecommerce.core\\dataaccess\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C04D5C-CFB3-40B8-8F30-318DCCEE6E40}|ECommerce.Business\\ECommerce.Business.csproj|c:\\users\\orkha\\onedrive\\desktop\\asp-ecommerce-version1-master\\ecommerce.business\\concrete\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C04D5C-CFB3-40B8-8F30-318DCCEE6E40}|ECommerce.Business\\ECommerce.Business.csproj|solutionrelative:ecommerce.business\\concrete\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C04D5C-CFB3-40B8-8F30-318DCCEE6E40}|ECommerce.Business\\ECommerce.Business.csproj|c:\\users\\orkha\\onedrive\\desktop\\asp-ecommerce-version1-master\\ecommerce.business\\concrete\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C04D5C-CFB3-40B8-8F30-318DCCEE6E40}|ECommerce.Business\\ECommerce.Business.csproj|solutionrelative:ecommerce.business\\concrete\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C04D5C-CFB3-40B8-8F30-318DCCEE6E40}|ECommerce.Business\\ECommerce.Business.csproj|c:\\users\\orkha\\onedrive\\desktop\\asp-ecommerce-version1-master\\ecommerce.business\\abstract\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C04D5C-CFB3-40B8-8F30-318DCCEE6E40}|ECommerce.Business\\ECommerce.Business.csproj|solutionrelative:ecommerce.business\\abstract\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C04D5C-CFB3-40B8-8F30-318DCCEE6E40}|ECommerce.Business\\ECommerce.Business.csproj|c:\\users\\orkha\\onedrive\\desktop\\asp-ecommerce-version1-master\\ecommerce.business\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C04D5C-CFB3-40B8-8F30-318DCCEE6E40}|ECommerce.Business\\ECommerce.Business.csproj|solutionrelative:ecommerce.business\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C04D5C-CFB3-40B8-8F30-318DCCEE6E40}|ECommerce.Business\\ECommerce.Business.csproj|c:\\users\\orkha\\onedrive\\desktop\\asp-ecommerce-version1-master\\ecommerce.business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C04D5C-CFB3-40B8-8F30-318DCCEE6E40}|ECommerce.Business\\ECommerce.Business.csproj|solutionrelative:ecommerce.business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionController.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.WebUI\\Controllers\\SessionController.cs",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Controllers\\SessionController.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.WebUI\\Controllers\\SessionController.cs",
+              "RelativeToolTip": "ECommerce.WebUI\\Controllers\\SessionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:20:52.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.WebUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.WebUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ECommerce.WebUI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:20:46.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.WebUI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.WebUI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ECommerce.WebUI\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:20:43.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.WebUI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.WebUI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ECommerce.WebUI\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:20:34.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.WebUI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.WebUI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ECommerce.WebUI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:20:27.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.WebUI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.WebUI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ECommerce.WebUI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:18:39.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebUIConstants.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.WebUI\\Consts\\WebUIConstants.cs",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Consts\\WebUIConstants.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.WebUI\\Consts\\WebUIConstants.cs",
+              "RelativeToolTip": "ECommerce.WebUI\\Consts\\WebUIConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:18:34.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.DataAccess\\Abstraction\\IProductDal.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Abstraction\\IProductDal.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.DataAccess\\Abstraction\\IProductDal.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Abstraction\\IProductDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:18:31.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.DataAccess\\Abstraction\\ICategoryDal.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Abstraction\\ICategoryDal.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.DataAccess\\Abstraction\\ICategoryDal.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Abstraction\\ICategoryDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:18:30.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.Core\\DataAccess\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.Core\\DataAccess\\IEntityRepository.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.Core\\DataAccess\\IEntityRepository.cs",
+              "RelativeToolTip": "ECommerce.Core\\DataAccess\\IEntityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:18:23.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.Business\\Concrete\\ProductService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Business\\Concrete\\ProductService.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.Business\\Concrete\\ProductService.cs",
+              "RelativeToolTip": "ECommerce.Business\\Concrete\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:18:15.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.Business\\Concrete\\CartService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Business\\Concrete\\CartService.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.Business\\Concrete\\CartService.cs",
+              "RelativeToolTip": "ECommerce.Business\\Concrete\\CartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:18:14.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.Business\\Abstract\\ICartService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Business\\Abstract\\ICartService.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.Business\\Abstract\\ICartService.cs",
+              "RelativeToolTip": "ECommerce.Business\\Abstract\\ICartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:18:11.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.Business\\Abstract\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Business\\Abstract\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.Business\\Abstract\\ICategoryService.cs",
+              "RelativeToolTip": "ECommerce.Business\\Abstract\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:18:09.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.Business\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Business\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Desktop\\ASP-ECommerce-Version1-master\\ECommerce.Business\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "ECommerce.Business\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:17:53.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

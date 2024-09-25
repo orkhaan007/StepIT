@@ -1,0 +1,14 @@
+C:\Users\orkha\OneDrive\Desktop\ASP-ECommerce-Version1-master\ECommerce.Core\bin\Debug\net8.0\ECommerce.Core.deps.json
+C:\Users\orkha\OneDrive\Desktop\ASP-ECommerce-Version1-master\ECommerce.Core\bin\Debug\net8.0\ECommerce.Core.runtimeconfig.json
+C:\Users\orkha\OneDrive\Desktop\ASP-ECommerce-Version1-master\ECommerce.Core\bin\Debug\net8.0\ECommerce.Core.dll
+C:\Users\orkha\OneDrive\Desktop\ASP-ECommerce-Version1-master\ECommerce.Core\bin\Debug\net8.0\ECommerce.Core.pdb
+C:\Users\orkha\OneDrive\Desktop\ASP-ECommerce-Version1-master\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.csproj.AssemblyReference.cache
+C:\Users\orkha\OneDrive\Desktop\ASP-ECommerce-Version1-master\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkha\OneDrive\Desktop\ASP-ECommerce-Version1-master\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.AssemblyInfoInputs.cache
+C:\Users\orkha\OneDrive\Desktop\ASP-ECommerce-Version1-master\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.AssemblyInfo.cs
+C:\Users\orkha\OneDrive\Desktop\ASP-ECommerce-Version1-master\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\orkha\OneDrive\Desktop\ASP-ECommerce-Version1-master\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.dll
+C:\Users\orkha\OneDrive\Desktop\ASP-ECommerce-Version1-master\ECommerce.Core\obj\Debug\net8.0\refint\ECommerce.Core.dll
+C:\Users\orkha\OneDrive\Desktop\ASP-ECommerce-Version1-master\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.pdb
+C:\Users\orkha\OneDrive\Desktop\ASP-ECommerce-Version1-master\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.genruntimeconfig.cache
+C:\Users\orkha\OneDrive\Desktop\ASP-ECommerce-Version1-master\ECommerce.Core\obj\Debug\net8.0\ref\ECommerce.Core.dll
