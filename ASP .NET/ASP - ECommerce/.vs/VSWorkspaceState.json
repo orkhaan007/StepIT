@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ECommerce.WebUI",
+    "\\ECommerce.WebUI\\Controllers",
+    "\\ECommerce.WebUI\\Migrations"
+  ],
+  "SelectedNode": "\\ECommerce.WebUI\\Controllers\\AdminController.cs",
+  "PreviewInSolutionExplorer": false
+}
