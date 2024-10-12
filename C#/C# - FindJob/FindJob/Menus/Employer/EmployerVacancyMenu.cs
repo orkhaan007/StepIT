@@ -1,0 +1,75 @@
+﻿using Database;
+using User;
+
+namespace Menus
+{
+    public class EmployerVacancyMenu
+    {
+        public static void showEmployerVacancyMenu(Employer employer)
+        {
+            Console.CursorVisible = false;
+            int selectedOption = 0;
+            string[] options = { "Create Vacancy", "Show Published Vacancies", "Delete Vacancy", "Edit Vacancy", "Back" };
+
+            while (true)
+            {
+                Console.Clear();
+                Logos.Logos.Logo.VacanciesLogo();
+
+                for (int i = 0; i < options.Length; i++)
+                {
+                    if (i == selectedOption)
+                    {
+                        Console.ForegroundColor = ConsoleColor.Blue;
+                        Console.WriteLine("                                                          " + options[i]);
+                    }
+                    else
+                    {
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.WriteLine("                                                          " + options[i]);
+                    }
+                }
+
+                ConsoleKeyInfo keyInfo = Console.ReadKey();
+
+                switch (keyInfo.Key)
+                {
+                    case ConsoleKey.UpArrow:
+                    case ConsoleKey.W:
+                        if (selectedOption > 0)
+                            selectedOption--;
+                        else
+                            selectedOption = options.Length - 1;
+                        break;
+                    case ConsoleKey.DownArrow:
+                    case ConsoleKey.S:
+                        if (selectedOption < options.Length - 1)
+                            selectedOption++;
+                        else
+                            selectedOption = 0;
+                        break;
+                    case ConsoleKey.Enter:
+                        if (selectedOption == 0)
+                        {
+                            Console.Clear();
+                            Console.WriteLine("Enter a title: ");
+                            string title = Console.ReadLine();
+                            Console.WriteLine("Enter a category: ");
+                            string category = Console.ReadLine();
+                            Console.WriteLine("Enter a salary: ");
+                            float salary = float.Parse(Console.ReadLine());
+                            Console.WriteLine("Enter a description: ");
+                            string description = Console.ReadLine();
+                            employer.CreateVacancy(title, category, salary, description);
+                            Database.VacancyDatabase.SaveVacancysToJson();
+                        }
+                        if (selectedOption == 1)
+                            employer.ShowPublishedVacancies();
+                        if (selectedOption == 2)
+                            return;
+                        break;
+                }
+            }
+        }
+    }
+}

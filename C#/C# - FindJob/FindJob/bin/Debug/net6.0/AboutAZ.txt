@@ -1,0 +1,32 @@
+Proqramın Adı: FindJob - İş Axtarışı və Müraciət İdarəetmə Proqramı Orkhan tərəfindən yaradılıb
+
+Təsvir:
+FindJob, iş axtaranlar və işverənlər üçün nəzəriyyəli bir iş axtarışı və müraciət idarəetmə proqramı olaraq işləyir. FindJob, iş axtarış prosesini daha effektiv və təkmilləşdirilmiş xüsusiyyətlərlə təmin edir.
+
+Əsas Xüsusiyyətlər:
+
+İş Elanlarını Axtar və Siyahıya Al: İstifadəçilər kateqoriyalar, mövqelər, şirkət adları və digər filterlər əsasında iş elanlarını axtara və siyahıya ala bilərlər.
+
+CV Oluşdurmaq: İş axtaranlar ətraflı bir CV yarada bilərlər. CV-lərini yeniləmək və professional saxlamaq onları işverənlər üçün daha cazibədar edə bilər.
+
+Müraciət İdarəetmə: İstifadəçilər iş elanlarına müraciət edə bilərlər. Redaktə etmək, izləmək və cavabları görə bilmək üçün rahat bir müraciət idarəetmə paneli təqdim edir.
+
+Sevimli İş Elanları: İstifadəçilər sevimli iş elanlarını saxlaya bilərlər ki, daha sonra asanlıqla əlaqə yarada bilsinlər.
+
+Xəbərdarlıqlar: İstifadəçilər yeni iş elanları və müraciət yenilikləri haqqında xəbərdarlıqlar alırlar.
+
+İşverən İş Elanları: İşverənlər iş elanları yerləşdirə, müraciətləri idarə edə və elanları yeniləyə bilərlər.
+
+Güclü Axtarış Alqoritmləri: FindJob, iş elanlarını və CV-ləri eyniləşdirən güclü axtarış alqoritmləri istifadə edir və istifadəçilərə daha uyğun iş imkanları tapmağa kömək edir.
+
+İstifadəçi Profilləri: İstifadəçilər şəxsi məlumatlarını, bacarıqlarını və iş təcrübələrini əhatə edən profil yarada bilərlər. İşverənlər namizədlərin profilini təqdim edə bilərlər.
+
+İstifadəçi Dostu İnterfeys: FindJob, asan naviqasiya və tələb olunan məlumatlara sürətli giriş üçün müasir və istifadəçi dostu bir interfeys təqdim edir.
+
+Faydalar:
+
+İş axtaranlar üçün daha çox iş imkanına giriş.
+İşverənlər üçün daha çox namizəd seçimi.
+İş müraciətlərinin və elanlarının daha effektiv idarəedilməsi.
+İş axtarış prosesinin daha sürətli və effektiv hala gəlməsi.
+FindJob, iş axtaranlar və işverənlər arasında əlaqəni asanlaşdırmaq üçün nəzəriyyəli bir iş axtarış platforması təqdim edir. İş axtaranların ideal iş imkanlarını tapmalarına kömək edir və işverənlərə uyğun namizədləri tapmaqda kömək edir.

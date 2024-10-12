@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1a970f9f-4d21-43f5-91f5-d771bde18001",
+    "name": "Sagol",
+    "surname": "Salam",
+    "age": 21,
+    "password": "sagol123",
+    "city": "Dubai",
+    "phone": "\u002B994666666666",
+    "email": "sagol@gmail.com",
+    "viewCount": 0
+  },
+  {
+    "id": "70197085-9af8-4571-a159-e3f07e98279b",
+    "name": "Orkhan",
+    "surname": "Mammadli",
+    "age": 18,
+    "password": "Orkhan123@",
+    "city": "Baku",
+    "phone": "\u002B994555555555",
+    "email": "orkhanm221@gmail.com",
+    "viewCount": 0
+  }
+]

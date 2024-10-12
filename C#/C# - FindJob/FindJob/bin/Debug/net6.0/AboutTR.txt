@@ -1,0 +1,32 @@
+Program Adı: FindJob - İş Arama ve Başvuru Yönetimi Programı Orkhan tarafından geliştirildi
+
+Açıklama:
+FindJob, iş arayanlar ve işverenler için tasarlanmış kullanıcı dostu bir iş arama ve başvuru yönetimi programıdır. FindJob, iş arama sürecini daha verimli ve etkili hale getirmek için gelişmiş özellikler sunar.
+
+Ana Özellikler:
+
+İş İlanları Ara ve Listele: Kullanıcılar, kategori, konum, firma adı ve diğer filtrelerle iş ilanlarını arayabilir ve listeyebilirler.
+
+Özgeçmiş Oluşturma: İş arayanlar, kapsamlı bir özgeçmiş oluşturabilirler. Özgeçmişlerini güncel ve profesyonel tutarak işverenlere daha cazip hale getirebilirler.
+
+Başvuru Yönetimi: Kullanıcılar, ilanlara başvuru yapabilirler. Başvurularını düzenlemek, takip etmek ve yanıtları görmek için kullanışlı bir başvuru yönetim paneli sunar.
+
+Favori İş İlanları: Kullanıcılar, favori iş ilanlarını kaydedebilirler, böylece daha sonra kolayca erişebilirler.
+
+Bildirimler: Yeni iş ilanları veya başvuru güncellemeleri hakkında kullanıcılara bildirimler gönderilir.
+
+İşverenler için İlan Verme: İşverenler, iş ilanlarını yayınlayabilir, başvuruları yönetebilir ve ilanlarını güncelleyebilirler.
+
+Güçlü Arama Algoritmaları: FindJob, iş ilanlarını ve özgeçmişleri eşleştirmek için güçlü arama algoritmaları kullanır, böylece kullanıcılar daha iyi eşleşen iş ilanlarına ulaşabilirler.
+
+Kullanıcı Profili: Kullanıcılar, kişisel bilgilerini, becerilerini ve iş deneyimlerini içeren profillerini oluşturabilirler. İşverenler, adayların profillerini inceleyebilirler.
+
+Kullanıcı Dostu Arayüz: FindJob, kullanıcıların kolayca gezinmesini ve aradıkları bilgilere hızlı bir şekilde erişmelerini sağlayan modern ve kullanıcı dostu bir arayüze sahiptir.
+
+Kazançlar:
+
+İş arayanlar için daha fazla iş fırsatına erişim.
+İşverenler için daha fazla aday seçeneği.
+İş başvurularının ve ilanlarının daha etkili bir şekilde yönetilmesi.
+İş arama sürecinin daha hızlı ve verimli hale gelmesi.
+FindJob, iş arayanlar ve işverenler arasındaki bağlantıyı kolaylaştıran kapsamlı bir iş arama platformu sunar. İş arayanlar için ideal iş fırsatlarını bulmalarına ve işverenlerin uygun adayları bulmalarına yardımcı olur.

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qvMnXWyhmbE/WDyRsx0vCaM46XYNtqrOEiOmORs+HlPHev2p1ga1mFQfm2fPQw8QJRUupnqhqoFpp1Z9EQQTww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\orkha_wpyrape\\Documents\\FindJob-master\\FindJob\\FindJob.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\orkha_wpyrape\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

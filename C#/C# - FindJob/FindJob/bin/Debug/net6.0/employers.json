@@ -1,0 +1,58 @@
+[
+  {
+    "notifications": [],
+    "PublishedVacancies": null,
+    "ApplicantsList": [],
+    "id": "8e2ca569-5714-431c-a571-863540509a98",
+    "name": "Salam",
+    "surname": "Sagol",
+    "age": 18,
+    "password": "salam123",
+    "city": "Baku",
+    "phone": "+994555555555",
+    "email": "salam@gmail.com",
+    "viewCount": 0
+  },
+  {
+    "notifications": [],
+    "PublishedVacancies": null,
+    "ApplicantsList": [],
+    "id": "fb0266b3-d21f-446e-9161-600a5b139da5",
+    "name": "Orkhan",
+    "surname": "Mammali",
+    "age": 18,
+    "password": "Orkhand123@",
+    "city": "Baku",
+    "phone": "+994555555555",
+    "email": "orkhanm221@gmail.com",
+    "viewCount": 0
+  },
+  {
+    "notifications": [],
+    "PublishedVacancies": null,
+    "ApplicantsList": [],
+    "id": "25fda21c-ac1f-42ce-8b16-19624ac0593a",
+    "name": "Salam",
+    "surname": "Sagol",
+    "age": 18,
+    "password": "salam123",
+    "city": "Baku",
+    "phone": "+994555555555",
+    "email": "salam@gmail.com",
+    "viewCount": 0
+  },
+  {
+    "notifications": [],
+    "PublishedVacancies": null,
+    "ApplicantsList": [],
+    "id": "92339c49-4f7a-4b1f-9491-fd3116a7df43",
+    "name": "Ibrahi",
+    "surname": "Penahli",
+    "age": 18,
+    "password": "Penhali1232@",
+    "city": "Baku",
+    "phone": "+994556565656",
+    "email": "penahli@gmail.com",
+    "viewCount": 0
+  }
+]
