@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Timer": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7015",
+      "launchBrowser": false
+    }
+  }
+}
