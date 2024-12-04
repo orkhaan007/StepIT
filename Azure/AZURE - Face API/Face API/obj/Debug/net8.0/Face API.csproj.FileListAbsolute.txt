@@ -1,0 +1,37 @@
+C:\Users\orkha\source\repos\Face API\Face API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\orkha\source\repos\Face API\Face API\bin\Debug\net8.0\appsettings.json
+C:\Users\orkha\source\repos\Face API\Face API\bin\Debug\net8.0\Face API.staticwebassets.endpoints.json
+C:\Users\orkha\source\repos\Face API\Face API\bin\Debug\net8.0\Face API.exe
+C:\Users\orkha\source\repos\Face API\Face API\bin\Debug\net8.0\Face API.deps.json
+C:\Users\orkha\source\repos\Face API\Face API\bin\Debug\net8.0\Face API.runtimeconfig.json
+C:\Users\orkha\source\repos\Face API\Face API\bin\Debug\net8.0\Face API.dll
+C:\Users\orkha\source\repos\Face API\Face API\bin\Debug\net8.0\Face API.pdb
+C:\Users\orkha\source\repos\Face API\Face API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\orkha\source\repos\Face API\Face API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\orkha\source\repos\Face API\Face API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\orkha\source\repos\Face API\Face API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\orkha\source\repos\Face API\Face API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\Face API.csproj.AssemblyReference.cache
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\Face API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\Face API.AssemblyInfoInputs.cache
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\Face API.AssemblyInfo.cs
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\Face API.csproj.CoreCompileInputs.cache
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\Face API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\Face API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\scopedcss\bundle\Face API.styles.css
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\staticwebassets\msbuild.Face API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\staticwebassets\msbuild.Face API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\staticwebassets\msbuild.build.Face API.props
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Face API.props
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Face API.props
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\Face API.csproj.Up2Date
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\Face API.dll
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\refint\Face API.dll
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\Face API.pdb
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\Face API.genruntimeconfig.cache
+C:\Users\orkha\source\repos\Face API\Face API\obj\Debug\net8.0\ref\Face API.dll

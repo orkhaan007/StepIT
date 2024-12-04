@@ -1,0 +1,115 @@
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\appsettings.json
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\Speech API.staticwebassets.endpoints.json
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\Speech API.exe
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\Speech API.deps.json
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\Speech API.runtimeconfig.json
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\Speech API.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\Speech API.pdb
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-arm\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-arm\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.ort.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-arm\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-arm64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.ort.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-x64\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.ort.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-x64\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-x86\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-x86\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-x86\native\libMicrosoft.CognitiveServices.Speech.extension.kws.ort.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-x86\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\android-x86\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\ios-arm64\native\libMicrosoft.CognitiveServices.Speech.core.a
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libMicrosoft.CognitiveServices.Speech.core.a
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libMicrosoft.CognitiveServices.Speech.core.a
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-arm\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.ort.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-arm\native\libpal_azure_c_shared.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-arm\native\libpal_azure_c_shared_openssl3.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.ort.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-arm64\native\libpal_azure_c_shared.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-arm64\native\libpal_azure_c_shared_openssl3.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.ort.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-x64\native\libpal_azure_c_shared.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\linux-x64\native\libpal_azure_c_shared_openssl3.so
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libMicrosoft.CognitiveServices.Speech.core.a
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libMicrosoft.CognitiveServices.Speech.core.a
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\osx-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\osx-arm64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\osx-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.ort.dylib
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\osx-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\osx-x64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\osx-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.ort.dylib
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\Speech API.csproj.AssemblyReference.cache
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\Speech API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\Speech API.AssemblyInfoInputs.cache
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\Speech API.AssemblyInfo.cs
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\Speech API.csproj.CoreCompileInputs.cache
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\Speech API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\Speech API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\scopedcss\bundle\Speech API.styles.css
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\staticwebassets\msbuild.Speech API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\staticwebassets\msbuild.Speech API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\staticwebassets\msbuild.build.Speech API.props
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Speech API.props
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Speech API.props
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\Speech API.csproj.Up2Date
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\Speech API.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\refint\Speech API.dll
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\Speech API.pdb
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\Speech API.genruntimeconfig.cache
+C:\Users\orkha\source\repos\Speech API\Speech API\obj\Debug\net8.0\ref\Speech API.dll

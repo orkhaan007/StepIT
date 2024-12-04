@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "FaceController",
+    "Method": "DetectFaces",
+    "RelativePath": "api/Face/detect",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "imageUrl",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
