@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model IndexViewModel
+
+<div class="container">
+    <div class="sidebar">
+        <div class="channel-form">
+            <form asp-controller="Home" asp-action="CreateChannelOnRedis" method="post">
+                <input name="channelName" id="channelNameInput" placeholder="Enter Name" class="input-field" />
+                <button id="btn" type="submit" class="primary-button" disabled>Create</button>
+            </form>
+        </div>
+
+        <ul id="listOfChannelNames" class="channel-list">
+            @foreach (var channel in Model.Channels)
+            {
+                foreach (var key in channel.Keys)
+                {
+                    <li onclick="getSelectedChannelMessages('@key')" class="channel-item">
+                        <strong>@key</strong>
+                    </li>
+                }
+            }
+        </ul>
+    </div>
+
+    <div class="main-content">
+        <div id="messages" class="messages-container">
+            <p>Select a channel to see messages.</p>
+        </div>
+        <div id="sendMessageDiv" class="send-message-container" style="display:none;">
+            <input id="writeMessage" class="input-field" placeholder="Write a message ..." />
+            <button id="btn2" class="primary-button" onclick="sendMessage()" disabled>Send</button>
+        </div>
+    </div>
+</div>
