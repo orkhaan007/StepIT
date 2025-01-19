@@ -1,0 +1,32 @@
+version: '3.8'
+
+services: 
+  app1: 
+    image: dockervolume:dev
+    build:
+      context: .
+      dockerfile: Docker_Volume/Dockerfile
+    ports:
+      - "7001:8080"
+    volumes:
+      - shared_error_volume:/app
+      - shared_action_volume:/app
+    environment:
+      - "ASPNETCORE_ENVIRONMENT=Development"
+  app2: 
+    image: dockervolume:dev
+    build:
+      context: .
+      dockerfile: Docker_Volume/Dockerfile
+    ports:
+      - "7002:8080"
+    volumes:
+      - error_volume:/app
+      - info_volume:/app
+    environment:
+      - "ASPNETCORE_ENVIRONMENT=Development"
+volumes:
+  error_volume:
+    external: true
+  info_volume:
+    external: true

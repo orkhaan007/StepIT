@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\orkha\\source\\repos\\Docker Volume\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E44DBFB-C8E6-4E0E-8D2A-66BF69924C5B}|Docker Volume\\Docker Volume.csproj|c:\\users\\orkha\\source\\repos\\docker volume\\docker volume\\controllers\\volumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E44DBFB-C8E6-4E0E-8D2A-66BF69924C5B}|Docker Volume\\Docker Volume.csproj|solutionrelative:docker volume\\controllers\\volumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E44DBFB-C8E6-4E0E-8D2A-66BF69924C5B}|Docker Volume\\Docker Volume.csproj|c:\\users\\orkha\\source\\repos\\docker volume\\docker volume\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E44DBFB-C8E6-4E0E-8D2A-66BF69924C5B}|Docker Volume\\Docker Volume.csproj|solutionrelative:docker volume\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432DD376-9422-4AA7-BD59-A70C3AE0C194}|Solution Items{432DD376-9422-4AA7-BD59-A70C3AE0C194}|C:\\Users\\orkha\\source\\repos\\Docker Volume\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{432DD376-9422-4AA7-BD59-A70C3AE0C194}|Solution Items{432DD376-9422-4AA7-BD59-A70C3AE0C194}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E44DBFB-C8E6-4E0E-8D2A-66BF69924C5B}|Docker Volume\\Docker Volume.csproj|c:\\users\\orkha\\source\\repos\\docker volume\\docker volume\\services\\abstract\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E44DBFB-C8E6-4E0E-8D2A-66BF69924C5B}|Docker Volume\\Docker Volume.csproj|solutionrelative:docker volume\\services\\abstract\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E44DBFB-C8E6-4E0E-8D2A-66BF69924C5B}|Docker Volume\\Docker Volume.csproj|c:\\users\\orkha\\source\\repos\\docker volume\\docker volume\\services\\concrete\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E44DBFB-C8E6-4E0E-8D2A-66BF69924C5B}|Docker Volume\\Docker Volume.csproj|solutionrelative:docker volume\\services\\concrete\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E44DBFB-C8E6-4E0E-8D2A-66BF69924C5B}|Docker Volume\\Docker Volume.csproj|c:\\users\\orkha\\source\\repos\\docker volume\\docker volume\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E44DBFB-C8E6-4E0E-8D2A-66BF69924C5B}|Docker Volume\\Docker Volume.csproj|solutionrelative:docker volume\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Docker Volume\\Docker Volume\\appsettings.json",
+              "RelativeDocumentMoniker": "Docker Volume\\appsettings.json",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Docker Volume\\Docker Volume\\appsettings.json",
+              "RelativeToolTip": "Docker Volume\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-19T02:17:35.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Docker Volume\\Docker Volume\\Services\\Concrete\\FileService.cs",
+              "RelativeDocumentMoniker": "Docker Volume\\Services\\Concrete\\FileService.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Docker Volume\\Docker Volume\\Services\\Concrete\\FileService.cs",
+              "RelativeToolTip": "Docker Volume\\Services\\Concrete\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T02:16:45.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Docker Volume\\Docker Volume\\Services\\Abstract\\IFileService.cs",
+              "RelativeDocumentMoniker": "Docker Volume\\Services\\Abstract\\IFileService.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Docker Volume\\Docker Volume\\Services\\Abstract\\IFileService.cs",
+              "RelativeToolTip": "Docker Volume\\Services\\Abstract\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T02:16:27.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VolumeController.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Docker Volume\\Docker Volume\\Controllers\\VolumeController.cs",
+              "RelativeDocumentMoniker": "Docker Volume\\Controllers\\VolumeController.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Docker Volume\\Docker Volume\\Controllers\\VolumeController.cs",
+              "RelativeToolTip": "Docker Volume\\Controllers\\VolumeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwCcAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T02:14:41.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Docker Volume\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Docker Volume\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-19T02:12:39.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Docker Volume\\Docker Volume\\Program.cs",
+              "RelativeDocumentMoniker": "Docker Volume\\Program.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Docker Volume\\Docker Volume\\Program.cs",
+              "RelativeToolTip": "Docker Volume\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T02:11:59.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
