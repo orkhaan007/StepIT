@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Redis.Console": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

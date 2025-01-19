@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\orkha\\source\\repos\\Redis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09ACA00B-AECB-41C7-B7D1-3FA6F6657CC7}|Redis.Trigger\\Redis.Trigger.csproj|c:\\users\\orkha\\source\\repos\\redis\\redis.trigger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09ACA00B-AECB-41C7-B7D1-3FA6F6657CC7}|Redis.Trigger\\Redis.Trigger.csproj|solutionrelative:redis.trigger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09ACA00B-AECB-41C7-B7D1-3FA6F6657CC7}|Redis.Trigger\\Redis.Trigger.csproj|c:\\users\\orkha\\source\\repos\\redis\\redis.trigger\\queuetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09ACA00B-AECB-41C7-B7D1-3FA6F6657CC7}|Redis.Trigger\\Redis.Trigger.csproj|solutionrelative:redis.trigger\\queuetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F3614A-CF68-449F-BA6C-D8DE4B68107F}|Redis.Console\\Redis.Console.csproj|c:\\users\\orkha\\source\\repos\\redis\\redis.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F3614A-CF68-449F-BA6C-D8DE4B68107F}|Redis.Console\\Redis.Console.csproj|solutionrelative:redis.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F3614A-CF68-449F-BA6C-D8DE4B68107F}|Redis.Console\\Redis.Console.csproj|c:\\users\\orkha\\source\\repos\\redis\\redis.console\\redis.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1F3614A-CF68-449F-BA6C-D8DE4B68107F}|Redis.Console\\Redis.Console.csproj|solutionrelative:redis.console\\redis.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|c:\\users\\orkha\\source\\repos\\redis\\redis.ui\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|solutionrelative:redis.ui\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|c:\\users\\orkha\\source\\repos\\redis\\redis.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|solutionrelative:redis.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|c:\\users\\orkha\\source\\repos\\redis\\redis.ui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|solutionrelative:redis.ui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|c:\\users\\orkha\\source\\repos\\redis\\redis.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|solutionrelative:redis.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|c:\\users\\orkha\\source\\repos\\redis\\redis.ui\\services\\concrete\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|solutionrelative:redis.ui\\services\\concrete\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|c:\\users\\orkha\\source\\repos\\redis\\redis.ui\\services\\abstract\\iqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|solutionrelative:redis.ui\\services\\abstract\\iqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|c:\\users\\orkha\\source\\repos\\redis\\redis.ui\\models\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|solutionrelative:redis.ui\\models\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|c:\\users\\orkha\\source\\repos\\redis\\redis.ui\\dtos\\repsonsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|solutionrelative:redis.ui\\dtos\\repsonsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|c:\\users\\orkha\\source\\repos\\redis\\redis.ui\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|solutionrelative:redis.ui\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|c:\\users\\orkha\\source\\repos\\redis\\redis.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F206085B-C73A-40F7-8E14-8B9806F80D30}|Redis.UI\\Redis.UI.csproj|solutionrelative:redis.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Redis.Console",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.Console\\Redis.Console.csproj",
+              "RelativeDocumentMoniker": "Redis.Console\\Redis.Console.csproj",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.Console\\Redis.Console.csproj",
+              "RelativeToolTip": "Redis.Console\\Redis.Console.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-19T02:02:53.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Redis.UI\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Redis.UI\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-19T02:02:40.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Redis.UI\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Redis.UI\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-19T02:02:17.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Redis.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Redis.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T02:01:55.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Redis.UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Redis.UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T02:01:45.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QueueService.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\Services\\Concrete\\QueueService.cs",
+              "RelativeDocumentMoniker": "Redis.UI\\Services\\Concrete\\QueueService.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\Services\\Concrete\\QueueService.cs",
+              "RelativeToolTip": "Redis.UI\\Services\\Concrete\\QueueService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T02:00:46.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IQueueService.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\Services\\Abstract\\IQueueService.cs",
+              "RelativeDocumentMoniker": "Redis.UI\\Services\\Abstract\\IQueueService.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\Services\\Abstract\\IQueueService.cs",
+              "RelativeToolTip": "Redis.UI\\Services\\Abstract\\IQueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T01:59:47.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.Trigger\\Program.cs",
+              "RelativeDocumentMoniker": "Redis.Trigger\\Program.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.Trigger\\Program.cs",
+              "RelativeToolTip": "Redis.Trigger\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T01:54:20.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.Console\\Program.cs",
+              "RelativeDocumentMoniker": "Redis.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.Console\\Program.cs",
+              "RelativeToolTip": "Redis.Console\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwDwAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T01:51:56.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.Trigger\\QueueTrigger.cs",
+              "RelativeDocumentMoniker": "Redis.Trigger\\QueueTrigger.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.Trigger\\QueueTrigger.cs",
+              "RelativeToolTip": "Redis.Trigger\\QueueTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T01:51:27.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\Models\\IndexViewModel.cs",
+              "RelativeDocumentMoniker": "Redis.UI\\Models\\IndexViewModel.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\Models\\IndexViewModel.cs",
+              "RelativeToolTip": "Redis.UI\\Models\\IndexViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T01:59:27.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepsonseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\Dtos\\RepsonseDTO.cs",
+              "RelativeDocumentMoniker": "Redis.UI\\Dtos\\RepsonseDTO.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\Dtos\\RepsonseDTO.cs",
+              "RelativeToolTip": "Redis.UI\\Dtos\\RepsonseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T01:59:03.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieDTO.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\Dtos\\MovieDTO.cs",
+              "RelativeDocumentMoniker": "Redis.UI\\Dtos\\MovieDTO.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\Dtos\\MovieDTO.cs",
+              "RelativeToolTip": "Redis.UI\\Dtos\\MovieDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T01:58:55.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\Program.cs",
+              "RelativeDocumentMoniker": "Redis.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\orkha\\source\\repos\\Redis\\Redis.UI\\Program.cs",
+              "RelativeToolTip": "Redis.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T01:57:36.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
