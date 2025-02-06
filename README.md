@@ -28,6 +28,8 @@ This repository contains homework assignments for the Step It project. Each assi
 - [JavaScript](./JavaScript): Homework assignments related to JavaScript.
 - [TypeScript](./TypeScript): Homework assignments related to TypeScript.
 - [ASP .NET](./ASP%20.NET): Homework assignments related to ASP .NET.
+- [Azure](./Azure): Homework assignments related to Azure.
+- [Devops](./Devops): Homework assignments related to Devops.
 
 Each language folder contains its own set of homework assignments. Feel free to explore and contribute to the tasks that interest you.
 
